@@ -9,9 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.4.2",
+    "@clerk/nextjs": "^5.3.3",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
+    "@stripe/stripe-js": "^4.3.0",
+    "firebase": "^10.13.0",
+    "next": "14.2.6",
+    "openai": "^4.56.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.6"
+    "stripe": "^16.8.0"
   },
   "devDependencies": {
     "eslint": "^8",
